@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-tanjava-thevenue-a1x95h47tyg.ws-eu106.gitpod.io']
+ALLOWED_HOSTS = ['thevenue-2311-93e981fbc974.herokuapp.com', '8000-tanjava-thevenue-a1x95h47tyg.ws-eu106.gitpod.io']
 
 
 # Application definition
